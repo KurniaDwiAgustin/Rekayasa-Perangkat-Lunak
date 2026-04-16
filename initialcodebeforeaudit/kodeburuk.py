@@ -1,5 +1,3 @@
-# kode sebelum audit (buruk tapi jalan)
-
 def f(a, b):
     c = a + b
     print("Hasil:", c)
@@ -9,7 +7,6 @@ y = 5
 
 f(x, y)
 
-# duplikasi fungsi (tidak perlu)
 def f(a, b):
     c = a + b
     print("Jumlah:", c)
